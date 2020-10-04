@@ -150,6 +150,15 @@
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "workbench.iconTheme": "material-icon-theme",
-    "togglequotes.chars": ["\"", "'"]
+    "workbench.iconTheme": "vscode-icons",
+    "togglequotes.chars": [
+        "\"",
+        "'"
+    ],
+    "editor.columnSelection": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "diffEditor.ignoreTrimWhitespace": false
 }
