@@ -27,4 +27,5 @@
   <li>vscode-icons</li>
   <li>vscode-styled-jsx</li>
   <li>XML Tools</li>
+  <li>EditorConfig for VS Code</li>
 </ul>
