@@ -2,6 +2,7 @@
 ### Extensions
 <ul>
   <li>Auto Close Tag</li>
+  <li>Auto Complete Tag</li>
   <li>Auto Rename Tag</li>
   <li>Bracket Pair Colorizer</li>
   <li>C#</li>
